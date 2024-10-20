@@ -1,0 +1,3 @@
+Getting python to answer "The total net amount of "Profit/Losses" over the entire period" source: https://stackoverflow.com/questions/52675187/getting-python-to-answer-the-total-net-amount-of-profit-losses-over-the-entir
+Python counting votes in election and combining score with names: https://stackoverflow.com/questions/59318949/python-counting-votes-in-election-and-combining-score-with-names-list
+How do I loop through a csv file and create a list based on the values in the list? source: https://stackoverflow.com/questions/65541642/how-do-i-loop-through-a-csv-file-and-create-a-list-based-on-the-values-in-the-li
